@@ -1,6 +1,6 @@
 # UCLA Law Behind Bars Data Project
 
-The UCLA Law Behind Bars Data Project builds and maintains the most comprehensive public datasets on mortality, morbidity, and health conditions inside U.S. prisons and jails. 
+The UCLA Law Behind Bars Data Project builds and maintains the most comprehensive public datasets on mortality and health conditions inside U.S. prisons and jails. 
 Our work fills a critical national data gap left by the federal government and supports researchers, policymakers, journalists, and advocates working to understand and improve conditions behind bars.
 
 ## Mission
