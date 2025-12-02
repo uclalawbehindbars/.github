@@ -14,7 +14,7 @@ These data allow for meaningful oversight, empirical research, and informed poli
 Nationwide collection and standardization of all-cause prison mortality data, covering 2019–2023 with ongoing updates. **For data, click here[LINK].**
 
 ### Jail Deaths  
-Systematic acquisition and cleaning of post-2019 mortality data from local jail systems across the country.  
+Systematic acquisition and cleaning of mortality data from local jail systems across the country.  
 
 ### Prison Morbidity  
 Expansion into infectious disease, chronic illness, behavioral health, substance use disorder, emergency medical activations, and other metrics of health behind bars.  
@@ -23,7 +23,7 @@ Expansion into infectious disease, chronic illness, behavioral health, substance
 Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people.  
 
 ### Prison Rosters & Population Exposure  
-Collection and cleaning of monthly population rosters.
+Collection and cleaning of monthly prison population rosters.
 
 ### Environmental, Staffing, & Facility-Level Metrics  
 Integration of facility-level data such as air quality, heat index, restrictive housing, staffing vacancies, and other environmental and operational factors.  
