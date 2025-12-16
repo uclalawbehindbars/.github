@@ -11,7 +11,7 @@ These data allow for meaningful oversight, empirical research, and informed poli
 ## Core Project Areas
 
 ### Prison Deaths  
-Nationwide collection and standardization of all-cause prison mortality data, covering 2019–2023 with ongoing updates. **For data, click here[LINK].**
+Nationwide collection and standardization of all-cause prison mortality data, covering 2019–2024 with ongoing updates. **For data, click [here](https://github.com/uclalawbehindbars/deaths_in_custody)**
 
 ### Jail Deaths  
 Systematic acquisition and cleaning of mortality data from local jail systems across the country.  
@@ -22,11 +22,11 @@ Expansion into infectious disease, chronic illness, behavioral health, substance
 ### NDI Cause-of-Death Repository  
 Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people.  
 
-### Prison Rosters & Population Exposure  
+### Prison Rosters & Population  
 Collection and cleaning of monthly prison population rosters.
 
 ### Environmental, Staffing, & Facility-Level Metrics  
-Integration of facility-level data such as air quality, heat index, restrictive housing, staffing vacancies, and other environmental and operational factors.  
+Collection and analysis of selected facility-level metrics, including heat exposure, restrictive housing use, and staffing data, where records are available.
 
 ### Research & Publications  
 Multiple empirical studies underway on racial disparities, life expectancy, cumulative incarceration exposure, environmental harms, restrictive housing, and jail-specific mortality dynamics.  
