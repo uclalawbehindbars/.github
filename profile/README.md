@@ -16,6 +16,10 @@ Nationwide collection and standardization of all-cause prison mortality data, co
 ### Jail Deaths  
 Systematic acquisition and cleaning of mortality data from local jail systems across the country.  
 
+### ICE Detention Deaths
+
+Collection and standardization of deaths occurring in U.S. Immigration and Customs Enforcement detention facilities, using publicly released death reports, press releases, and litigation-driven disclosures. Data are analyzed separately from prison and jail deaths due to differences in legal status, detention authority, and reporting requirements.  
+
 ### Prison Morbidity  
 Expansion into infectious disease, chronic illness, behavioral health, substance use disorder, emergency medical activations, and other metrics of health behind bars.  
 
