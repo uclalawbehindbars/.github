@@ -14,26 +14,26 @@ These data allow for meaningful oversight, empirical research, and informed poli
 Nationwide collection and standardization of all-cause prison mortality data, covering 2019–2024 with ongoing updates. **For data, click [here](https://github.com/uclalawbehindbars/deaths_in_custody)**
 
 ### Jail Deaths  
-Systematic acquisition and cleaning of mortality data from local jail systems across the country.  
+Systematic acquisition and cleaning of mortality data from local jail systems across the country. Data forthcoming.  
 
 ### ICE Detention Deaths
 
-Collection and standardization of deaths occurring in U.S. Immigration and Customs Enforcement detention facilities, using publicly released death reports, press releases, and litigation-driven disclosures. Data are analyzed separately from prison and jail deaths due to differences in legal status, detention authority, and reporting requirements.  
+Collection and standardization of deaths occurring in U.S. Immigration and Customs Enforcement detention facilities, using publicly released death reports, press releases, and litigation-driven disclosures. Data are analyzed separately from prison and jail deaths due to differences in legal status, detention authority, and reporting requirements. Data forthcoming.  
 
 ### Prison Morbidity  
-Early-stage work to build a national prison morbidity data infrastructure. Focused on collecting and standardizing data on non-fatal health outcomes, including infectious disease, chronic illness, behavioral health, substance use disorder, and emergency medical events. Public data and analyses will be released on a rolling basis as the work progresses.
+Early-stage work to build a national prison morbidity data infrastructure. Focused on collecting and standardizing data on non-fatal health outcomes, including infectious disease, chronic illness, behavioral health, substance use disorder, and emergency medical events. Public data and analyses will be released on a rolling basis as the work progresses. Data forthcoming.  
 
 ### NDI Cause-of-Death Repository  
-Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people.  
+Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people. Data forthcoming.   
 
 ### Prison Rosters & Population  
-Collection and cleaning of monthly prison population rosters.
+Collection and cleaning of monthly prison population rosters. Data forthcoming.  
 
 ### Environmental, Staffing, & Facility-Level Metrics  
-Collection and analysis of selected facility-level metrics, including heat exposure, restrictive housing use, and staffing data, where records are available.
+Collection and analysis of selected facility-level metrics, including heat exposure, restrictive housing use, and staffing data, where records are available. Data forthcoming.  
 
 ### Research & Publications  
-Multiple empirical studies underway on racial disparities, life expectancy, cumulative incarceration exposure, environmental harms, restrictive housing, and jail-specific mortality dynamics.  
+Multiple empirical studies underway on racial disparities, life expectancy, cumulative incarceration exposure, environmental harms, restrictive housing, and jail-specific mortality dynamics. Publications forthcoming.  
 
 ## Contact
 
