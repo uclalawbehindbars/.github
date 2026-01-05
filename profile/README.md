@@ -21,7 +21,7 @@ Systematic acquisition and cleaning of mortality data from local jail systems ac
 Collection and standardization of deaths occurring in U.S. Immigration and Customs Enforcement detention facilities, using publicly released death reports, press releases, and litigation-driven disclosures. Data are analyzed separately from prison and jail deaths due to differences in legal status, detention authority, and reporting requirements.  
 
 ### Prison Morbidity  
-Expansion into infectious disease, chronic illness, behavioral health, substance use disorder, emergency medical activations, and other metrics of health behind bars.  
+Early-stage work to build a national prison morbidity data infrastructure. Focused on collecting and standardizing data on non-fatal health outcomes, including infectious disease, chronic illness, behavioral health, substance use disorder, and emergency medical events. Public data and analyses will be released on a rolling basis as the work progresses.
 
 ### NDI Cause-of-Death Repository  
 Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people.  
