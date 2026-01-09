@@ -23,11 +23,8 @@ Collection and standardization of deaths occurring in U.S. Immigration and Custo
 ### Prison Morbidity  
 Early-stage work to build a national prison morbidity data infrastructure. Focused on collecting and standardizing data on non-fatal health outcomes, including infectious disease, chronic illness, behavioral health, substance use disorder, and emergency medical events. Public data and analyses will be released on a rolling basis as the work progresses. Data forthcoming.  
 
-### NDI Cause-of-Death Repository  
-Creation of the first multi-state repository of standardized ICD-10 cause-of-death data using National Death Index records for incarcerated people. Data forthcoming.   
-
-### Prison Rosters & Population  
-Collection and cleaning of monthly prison population rosters. Data forthcoming.  
+### Prison Population Demographics  
+Construction of aggregate prison population demographic datasets to contextualize mortality and morbidity findings. Data forthcoming.  
 
 ### Environmental, Staffing, & Facility-Level Metrics  
 Collection and analysis of selected facility-level metrics, including heat exposure, restrictive housing use, and staffing data, where records are available. Data forthcoming.  
